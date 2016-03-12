@@ -18,5 +18,10 @@
   "homepage": "https://github.com/lawtonB/PingPongWithNode",
   "dependencies": {
     "prompt": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^13.0.0",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "~1.1.0"
   }
 }
