@@ -1,0 +1,22 @@
+{
+  "name": "ping-pong",
+  "version": "1.0.0",
+  "description": "\"\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lawtonB/PingPongWithNode.git"
+  },
+  "author": "\"\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lawtonB/PingPongWithNode/issues"
+  },
+  "homepage": "https://github.com/lawtonB/PingPongWithNode",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
